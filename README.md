@@ -25,12 +25,12 @@ Photos are fairly high resolution, if looking for details (like on black primed 
   * [NOTES:](#notes-)
 - Sheets:
   * [Chaos:](#chaos-)
-    + [Sheet A - Chaos](#sheet-a---chaos)
-    + [Sheet B - Chaos Terminators (and non-Chaos terminators for conversion)](#sheet-b---chaos-terminators--and-non-chaos-terminators-for-conversion-)
-    + [Sheet C - Chaos Marines (mostly RT-era "Renegade Marines", will note if a 2e model)](#sheet-c---chaos-marines--mostly-rt-era--renegade-marines---will-note-if-a-2e-model-)
-    + [Sheet D - Marines Beakies (RT-era, all painted old style with base and backpacks except red) & Khorne Berserkers](#sheet-d---marines-beakies--rt-era--all-painted-old-style-with-base-and-backpacks-except-red----khorne-berserkers)
-    + [Sheet E - Chaos Squats ... RT-Era ... Squats may be dead but these would make great Nurgle terminators/marines](#sheet-e---chaos-squats--rt-era--squats-may-be-dead-but-these-would-make-great-nurgle-terminators-marines)
-    + [Sheet F - Chaos Bits with some Orc stuff and RT-era Marine jump packs ... many of these were intended for vehicle or dreadnought conversions](#sheet-f---chaos-bits-with-some-orc-stuff-and-rt-era-marine-jump-packs--many-of-these-were-intended-for-vehicle-or-dreadnought-conversions)
+    + [Sheet A - Chaos Sorcerors, Havocs, Khorne Berserkers, Juggernauts, Nurgle Marines, misc](#sheet-a---chaos-sorcerors--havocs--khorne-berserkers--juggernauts--nurgle-marines--misc)
+    + [Sheet B - Chaos Terminators (and Marine terminators for conversion)](#sheet-b---chaos-terminators--and-non-chaos-terminators-for-conversion-)
+    + [Sheet C - Chaos Marines (mostly RT-era "Renegade Marines")](#sheet-c---chaos-marines--mostly-rt-era--renegade-marines---will-note-if-a-2e-model-)
+    + [Sheet D - Marines Beakies (RT-era) & plastic Khorne Berserkers](#sheet-d---marines-beakies--rt-era--all-painted-old-style-with-base-and-backpacks-except-red----khorne-berserkers)
+    + [Sheet E - Chaos Squats ... RT-Era](#sheet-e---chaos-squats--rt-era--squats-may-be-dead-but-these-would-make-great-nurgle-terminators-marines)
+    + [Sheet F - Chaos & Orc Bits, RT-era jump packs](#sheet-f---chaos-bits-with-some-orc-stuff-and-rt-era-marine-jump-packs--many-of-these-were-intended-for-vehicle-or-dreadnought-conversions)
   * [Necrons:](#necrons-)
     + [Sheet G - Necron Warriors + Scarabs box](#sheet-g---necron-warriors---scarabs-box)
     + [Sheet H - Necron Battle Force box](#sheets-h1-h2-h3---necron-battle-force-box)
@@ -63,7 +63,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ---
 
-### Sheet A - Chaos
+### Sheet A - Chaos Sorcerors, Havocs, Khorne Berserkers, Juggernauts, Nurgle Marines, misc
 
 ![Chaos-A-sorcerors-ahriman-juggers-heavies-khorne-nurgle](https://user-images.githubusercontent.com/16520816/160341935-cfabbc25-3b9c-4c04-9a9f-9762f92d9657.jpg)
 
