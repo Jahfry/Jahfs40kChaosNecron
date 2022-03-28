@@ -20,7 +20,34 @@ Photos are fairly high resolution, if looking for details (like on black primed 
 
 ---
 
-# Quick listing of each sheet:
+- Contents:
+  * [Background:](#background-)
+  * [NOTES:](#notes-)
+- [Quick listing of each sheet:](#quick-listing-of-each-sheet-)
+  * [Chaos:](#chaos-)
+    + [Sheet A - Chaos](#sheet-a---chaos)
+    + [Sheet B - Chaos Terminators (and non-Chaos terminators for conversion)](#sheet-b---chaos-terminators--and-non-chaos-terminators-for-conversion-)
+    + [Sheet C - Chaos Marines (mostly RT-era "Renegade Marines", will note if a 2e model)](#sheet-c---chaos-marines--mostly-rt-era--renegade-marines---will-note-if-a-2e-model-)
+    + [Sheet D - Marines Beakies (RT-era, all painted old style with base and backpacks except red) & Khorne Berserkers](#sheet-d---marines-beakies--rt-era--all-painted-old-style-with-base-and-backpacks-except-red----khorne-berserkers)
+    + [Sheet E - Chaos Squats ... RT-Era ... Squats may be dead but these would make great Nurgle terminators/marines](#sheet-e---chaos-squats--rt-era--squats-may-be-dead-but-these-would-make-great-nurgle-terminators-marines)
+    + [Sheet F - Chaos Bits with some Orc stuff and RT-era Marine jump packs ... many of these were intended for vehicle or dreadnought conversions](#sheet-f---chaos-bits-with-some-orc-stuff-and-rt-era-marine-jump-packs--many-of-these-were-intended-for-vehicle-or-dreadnought-conversions)
+  * [Necrons:](#necrons-)
+    + [Sheet G - Necron Warriors + Scarabs box](#sheet-g---necron-warriors---scarabs-box)
+    + [Sheets H1/H2/H3 - Necron Battle Force box](#sheets-h1-h2-h3---necron-battle-force-box)
+    + [Sheet I - Necron Destroyers / Heavy Destroyers / Destroyer Lord](#sheet-i---necron-destroyers---heavy-destroyers---destroyer-lord)
+      - ["Nubby" note ...](#-nubby--note-)
+    + [Sheet J - Necron Scarabs](#sheet-j---necron-scarabs)
+    + [Sheet K - Necron C'Tan & Wraiths](#sheet-k---necron-c-tan---wraiths)
+    + [Sheet L - Necron Warriors](#sheet-l---necron-warriors)
+    + [Sheets M1/M2/M3 - Necron Monolith](#sheets-m1-m2-m3---necron-monolith)
+    + [Sheet N - Necron Decal Transfer Sheets](#sheet-n---necron-decal-transfer-sheets)
+    + [Sheet O - Necron Flayed Ones](#sheet-o---necron-flayed-ones)
+    + [Print Materials (no pictures/listing yet):](#print-materials--no-pictures-listing-yet--)
+
+
+---
+
+# Sheets:
 
 ## Chaos: 
 
