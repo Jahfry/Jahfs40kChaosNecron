@@ -41,71 +41,31 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet A - Chaos
 
-*NOTE: If (2e) isn't listed, I'm thinking it's a RT-era model*
+| ***Sheet A*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
+| ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| *<sup>Row 1</sup>* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] | Standard Bearer | Ahriman | Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
+| *<sup>Row 2</sup>* | Fantasy Standard Bearer | [empty] | Havoc 1 (white metal, assembled, based, primed black) | Havoc 2 (white metal, assembled, based, primed black) | Havoc 3 (white metal, assembled, based, primed black) | Juggernaut (2nd edition, white metal, khorne rider **missing torso**, convert from a Khorne Berserker maybe) | (Juggernaut 2e pt2) | (Juggernaut 2e pt3, rider) |
+| *<sup>Row 3</sup>*  | Khorne Berserker (wrong plastic arm) | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker x 2 (duplicates) | Khorne Berserker | [empty]
+<td colspan=9><b>Note: except first Rocket launcher, the rest of this page are Rogue Trader ("RT-era") model designs</b></td>
+| *<sup>Row 4</sup>*  | Heavy weapon rocket (2e) | Khorne Berserker (bloodletter head) | [empty] | [empty] | Nurgle Marine x 2 (duplicate) | Nurgle Marine x 2 (duplicate) | Marine | Marine
+| *<sup>Row 4</sup>*  | Nurgl-ish Marine x 2 (duplicate) | Nurgl-ish Marine x 2 (duplicate | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine (demon head) | Nurgl-ish Marine (demon head, duplicate of A5,7)
 
-| ***Sheet A*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* 
-| ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- 
-| *<sup>Row 1</sup>* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] (2e) | Standard Bearer (2e) | Ahriman (2e)| Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) |
-| *<sup>Row 2</sup>* | Fantasy Standard Bearer | [empty] | Havoc 1 (white metal, assembled, based, primed black, 2e) | Havoc 2 (white metal, assembled, based, primed black, 2e) | Havoc 3 (white metal, assembled, based, primed black, 2e) | Juggernaut (white metal, khorne rider **missing torso**, convert from a Khorne Berserker maybe, 2e) | (Juggernaut 2e pt2) | (Juggernaut 2e pt3, rider) |
-| *<sup>Row 3</sup>*  | Khorne Berserker (wrong plastic arm, 2e) | Khorne Berserker (2e) | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker x 2 (duplicates) | Khorne Berserker | [empty] |
-| *<sup>Row 4</sup>*  | Heavy weapon rocket (2e) | Khorne Berserker (bloodletter head) | [empty] | [empty] | Nurgle Marine x 2 (duplicate) | Nurgle Marine x 2 (duplicate) | Marine | Marine |
-| *<sup>Row 4</sup>*  | Nurgl-ish Marine x 2 (duplicate) | Nurgl-ish Marine x 2 (duplicate | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine (demon head) | Nurgl-ish Marine (demon head, duplicate of A5,7) |
 ---
 
 ### Sheet B - Chaos Terminators (and non-Chaos terminators for conversion)
 
-NOTE: Not trying to sell the weapons separately, will bundle full models, just making it clear what is there
+*NOTES:*
 
-* 1,1 - [empty]
-* 1,2 - Chaos Terminator Power Fist (left)
-* 1,3 - Chaos Terminator Power Fist (left)
-* 1,4 - Chaos Terminator Power Fist (left)
-* 1,5 - Chaos Terminator Power Fist (left)
-* 1,6 - Chaos Terminator Power Fist (left)
-* 1,7 - Chaos Terminator Chainsword (left)
-* 1,8 - Chaos Terminator Power Sword (left)
+* Not trying to sell the weapons separately, will bundle full models, just making it clear what is there *
+* Rows 4 & 5 not Chaos models (until converted or for renegade marines, ofc) ... I believe these are RT-era and what the 2e Chaos terminators were based on
 
-
-
-* 2,1 - Chaos Terminator Bolter (right)
-* 2,2 - Chaos Terminator Rocket Launcher (right)
-* 2,3 - Chaos Terminator Combibolter (right)
-* 2,4 - Chaos Terminator Plasma? (right)
-* 2,5 - Chaos Terminator Bolter (right)
-* 2,6 - Chaos Terminator Bolter (right)
-* 2,7 - Chaos Terminator Combibolter? (right)
-* 2,8 - Chaos Terminator Mace (-left-)
-
-
-
-* 3,1 - Chaos Terminator (assembled no base, bolter + power fist)
-* 3,2 - Chaos Terminator (assembled WITH base, open face / champion, bolter + sword + standard bearer rack)
-* 3,3 - Chaos Terminator (assembled WITH base & black primer, rocket? + sword)
-* 3,4 - Chaos Terminator (assembled WITH base & black primer, combibolter + axe)
-* 3,5 - Chaos Terminator (body + plume head + racks, will get weapons from above)
-* 3,6 - Chaos Terminator (body + tusk head1 + racks, will get weapons from above)
-* 3,7 - Chaos Terminator (body + tusk head2 + racks, will get weapons from above)
-* 3,8 - Chaos Terminator (body + tusk head3 + racks, will get weapons from above)
-
-NOTE: The following are not Chaos models (until converted or for renegade marines, ofc) ... I believe these are RT-era and what the 2e Chaos terminators were based on
-
-* 4,1 - Marine Terminator Bolter  1 (left)
-* 4,2 - Marine Terminator Bolter x 2 (left, with feather, duplicate)
-* 4,3 - Marine Terminator Plasma? (left)
-* 4,4 - Marine Terminator Bolter  2 (left)
-* 4,5 - Marine Terminator Chainfist (-right-)
-* 4,6 - Marine Terminator Power Fist 1 (right)
-* 4,7 - Marine Terminator Power Fist 2 (right)
-* 4,8 - Marine Terminator Power Fist 3 (right)
-
-* 5,1 - [empty]
-* 5,2 - Marine Termintator (assembled WITH base & black primer, heavy combibolter + power fist + skull shoulder)
-* 5,3 - Marine Termintator (assembled WITH base & black primer, heavy bolter + mace + emblem shoulder)
-* 5,4 - Marine Termintator (assembled WITH base & black primer, bolter + power fist + emblem shoulder)
-* 5,5 - Marine Termintator (will include weapon set from row above)
-* 5,6 - Marine Termintator (will include weapon set from row above)
-* 5,7 - [empty]
-* 5,8 - Terminator with Power Lance and shoulder emblems (early grey knight concept)
+| ***Sheet B*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
+| ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| *<sup>Row 1</sup>*  | [empty] | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Chainsword (left) | Chaos Terminator Power Sword (left)
+| *<sup>Row 2</sup>*  | Chaos Terminator Bolter (right) | Chaos Terminator Rocket Launcher (right) | Chaos Terminator Combibolter (right) | Chaos Terminator Plasma? (right) | Chaos Terminator Bolter (right) | Chaos Terminator Bolter (right) | Chaos Terminator Combibolter? (right) | Chaos Terminator Mace (-left-)
+| *<sup>Row 3</sup>*  | Chaos Terminator (assembled no base, bolter + power fist) | Chaos Terminator (assembled WITH base, open face / champion, bolter + sword + standard bearer rack) | Chaos Terminator (assembled WITH base & black primer, rocket? + sword) | Chaos Terminator (assembled WITH base & black primer, combibolter + axe) | Chaos Terminator (body + plume head + racks, will get weapons from above) | Chaos Terminator (body + tusk head1 + racks, will get weapons from above) | Chaos Terminator (body + tusk head2 + racks, will get weapons from above) | Chaos Terminator (body + tusk head3 + racks, will get weapons from above)
+| *<sup>Row 4</sup>*  | Marine Terminator Bolter  1 (left) | Marine Terminator Bolter x 2 (left, with feather, duplicate) | Marine Terminator Plasma? (left) | Marine Terminator Bolter  2 (left) | Marine Terminator Chainfist (-right-) | Marine Terminator Power Fist 1 (right) | Marine Terminator Power Fist 2 (right) | Marine Terminator Power Fist 3 (right)
+| *<sup>Row 5</sup>*  | [empty] | Marine Termintator (assembled WITH base & black primer, heavy combibolter + power fist + skull shoulder) | Marine Termintator (assembled WITH base & black primer, heavy bolter + mace + emblem shoulder) | Marine Termintator (assembled WITH base & black primer, bolter + power fist + emblem shoulder) | Marine Termintator (will include weapon set from row above) | Marine Termintator (will include weapon set from row above) | [empty] | Terminator with Power Lance and shoulder emblems (early grey knight concept)
 	
 ---
 
