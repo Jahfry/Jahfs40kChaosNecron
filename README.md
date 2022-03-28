@@ -1,5 +1,3 @@
-testing
-
 # Jahf's Too Many 40K Minis
 
 No selling done through this page, it's just a place to drop the content to show in Discord/Reddit/etc. 
@@ -66,60 +64,25 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 | ***Sheet B*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| *<sup>Row 1</sup>*  | [empty] | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Chainsword (left) | Chaos Terminator Power Sword (left)
-| *<sup>Row 2</sup>*  | Chaos Terminator Bolter (right) | Chaos Terminator Rocket Launcher (right) | Chaos Terminator Combibolter (right) | Chaos Terminator Plasma? (right) | Chaos Terminator Bolter (right) | Chaos Terminator Bolter (right) | Chaos Terminator Combibolter? (right) | Chaos Terminator Mace (-left-)
-| *<sup>Row 3</sup>*  | Chaos Terminator (assembled no base, bolter + power fist) | Chaos Terminator (assembled WITH base, open face / champion, bolter + sword + standard bearer rack) | Chaos Terminator (assembled WITH base & black primer, rocket? + sword) | Chaos Terminator (assembled WITH base & black primer, combibolter + axe) | Chaos Terminator (body + plume head + racks, will get weapons from above) | Chaos Terminator (body + tusk head1 + racks, will get weapons from above) | Chaos Terminator (body + tusk head2 + racks, will get weapons from above) | Chaos Terminator (body + tusk head3 + racks, will get weapons from above)
-| *<sup>Row 4</sup>*  | Marine Terminator Bolter  1 (left) | Marine Terminator Bolter x 2 (left, with feather, duplicate) | Marine Terminator Plasma? (left) | Marine Terminator Bolter  2 (left) | Marine Terminator Chainfist (-right-) | Marine Terminator Power Fist 1 (right) | Marine Terminator Power Fist 2 (right) | Marine Terminator Power Fist 3 (right)
-| *<sup>Row 5</sup>*  | [empty] | Marine Termintator (assembled WITH base & black primer, heavy combibolter + power fist + skull shoulder) | Marine Termintator (assembled WITH base & black primer, heavy bolter + mace + emblem shoulder) | Marine Termintator (assembled WITH base & black primer, bolter + power fist + emblem shoulder) | Marine Termintator (will include weapon set from row above) | Marine Termintator (will include weapon set from row above) | [empty] | Terminator with Power Lance and shoulder emblems (early grey knight concept)
+| *<sup>Row 1</sup>*  | [empty] | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Power Fist (left) | Chaos Terminator Chainsword (left) | Chaos Terminator Power Sword (left) |
+| *<sup>Row 2</sup>*  | Chaos Terminator Bolter (right) | Chaos Terminator Rocket Launcher (right) | Chaos Terminator Combibolter (right) | Chaos Terminator Plasma? (right) | Chaos Terminator Bolter (right) | Chaos Terminator Bolter (right) | Chaos Terminator Combibolter? (right) | Chaos Terminator Mace (-left-) |
+| *<sup>Row 3</sup>*  | Chaos Terminator (assembled no base, bolter + power fist) | Chaos Terminator (assembled WITH base, open face / champion, bolter + sword + standard bearer rack) | Chaos Terminator (assembled WITH base & black primer, rocket? + sword) | Chaos Terminator (assembled WITH base & black primer, combibolter + axe) | Chaos Terminator (body + plume head + racks, will get weapons from above) | Chaos Terminator (body + tusk head1 + racks, will get weapons from above) | Chaos Terminator (body + tusk head2 + racks, will get weapons from above) | Chaos Terminator (body + tusk head3 + racks, will get weapons from above) |
+| *<sup>Row 4</sup>*  | Marine Terminator Bolter  1 (left) | Marine Terminator Bolter x 2 (left, with feather, duplicate) | Marine Terminator Plasma? (left) | Marine Terminator Bolter  2 (left) | Marine Terminator Chainfist (-right-) | Marine Terminator Power Fist 1 (right) | Marine Terminator Power Fist 2 (right) | Marine Terminator Power Fist 3 (right) |
+| *<sup>Row 5</sup>*  | [empty] | Marine Termintator (assembled WITH base & black primer, heavy combibolter + power fist + skull shoulder) | Marine Termintator (assembled WITH base & black primer, heavy bolter + mace + emblem shoulder) | Marine Termintator (assembled WITH base & black primer, bolter + power fist + emblem shoulder) | Marine Termintator (will include weapon set from row above) | Marine Termintator (will include weapon set from row above) | [empty] | Terminator with Power Lance and shoulder emblems (early grey knight concept) |
 	
 ---
 
 ### Sheet C - Chaos Marines (mostly RT-era "Renegade Marines", will note if a 2e model)
 
-* 1,1 - Chaos Marine 
-* 1,2 - Chaos Marine 
-* 1,3 - Chaos Marine (2e model, standard bearer with bolter, comes with standard top on page F row 2 column 3, with base)
-* 1,4 - Chaos Marine (2e model, thousand son)
-* 1,5 - Chaos Marine 
-* 1,6 - Chaos Marine x 3 (duplicate)
-* 1,7 - Chaos Marine (2e model ... I *think*)
-* 1,8 - Chaos Marine (2e model, heavy / plasma?, primed GW white with base)
-						 
-* 2,1 - Chaos Marine (bloodletter-y head)
-* 2,2 - Chaos Marine (bloodletter-y head)
-* 2,3 - Chaos Marine 
-* 2,4 - Chaos Marine x 2 (duplicate)
-* 2,5 - Chaos Marine x 2 (duplicate)
-* 2,6 - Chaos Marine 
-* 2,7 - Chaos Marine 
-* 2,8 - Chaos Marine 
-						 
-* 3,1 - Chaos Marine x 2 (duplicate)
-* 3,2 - Chaos Marine 
-* 3,3 - Chaos Marine 
-* 3,4 - Chaos Marine x 2 (duplicate)
-* 3,5 - Chaos Marine x 2 (duplicate)
-* 3,6 - Chaos Marine [empty]
-* 3,7 - Chaos Marine (demon arm)
-* 3,8 - Chaos Marine 
-						 
-* 4,1 - Chaos Marine 
-* 4,2 - Chaos Marine 
-* 4,3 - Chaos Marine 
-* 4,4 - Chaos Marine x 2 (duplicate)
-* 4,5 - Chaos Marine x 2 (duplicate) 
-* 4,6 - Chaos Marine x 2 (duplicate)
-* 4,7 - Chaos Marine [empty]
-* 4,8 - Chaos Marine x 3 (duplicate)
-						 
-* 5,1 - Chaos Marine 
-* 5,2 - Chaos Marine 
-* 5,3 - Chaos Marine 
-* 5,4 - Chaos Marine 
-* 5,5 - Chaos Marine 
-* 5,6 - Chaos Marine  x 2 (duplicate)
-* 5,7 - Chaos Marine  x 2 (duplicate)
-* 5,8 - Chaos Marine [empty]
+![Chaos-C-marines](https://user-images.githubusercontent.com/16520816/160343445-4617c9fa-e1cb-4256-ab11-6b4a3e4ee488.jpg)
+
+| ***Sheet C*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
+| ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| *<sup>Row 1</sup>* | Chaos Marine  | Chaos Marine  | Chaos Marine (standard bearer with bolter, comes with standard top on page F row 2 column 3, with base, 2e) | Chaos Marine (thousand son, 2e?) | Chaos Marine  | Chaos Marine x 3 (duplicate) | Chaos Marine (2e ... I *think*) | Chaos Marine (heavy / plasma?, primed GW white with base, 2e) |
+| *<sup>Row 2</sup>* | Chaos Marine (bloodletter-y head) | Chaos Marine (bloodletter-y head) | Chaos Marine  | Chaos Marine x 2 (duplicate) | Chaos Marine x 2 (duplicate) | Chaos Marine  | Chaos Marine  | Chaos Marine |
+| *<sup>Row 3</sup>* | Chaos Marine x 2 (duplicate) | Chaos Marine  | Chaos Marine  | Chaos Marine x 2 (duplicate) | Chaos Marine x 2 (duplicate) | Chaos Marine [empty] | Chaos Marine (demon arm) | Chaos Marine |
+| *<sup>Row 4</sup>* | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine x 2 (duplicate) | Chaos Marine x 2 (duplicate)  | Chaos Marine x 2 (duplicate) | Chaos Marine [empty] | Chaos Marine x 3 (duplicate) |
+| *<sup>Row 5</sup>* | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  x 2 (duplicate) | Chaos Marine  x 2 (duplicate) | Chaos Marine [empty] |
 
 ---
 
