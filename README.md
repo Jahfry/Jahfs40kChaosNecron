@@ -45,8 +45,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 * 1,4 - Standard Bearer
 * 1,5 - Ahriman
 * 1,6 - Juggernaut (Rogue Trader era, lead, marine rider)
-* 1,7 - ^^^^^^^^^^    
-* 1,8 -                                     ^^^^^^^^^^^^
+* 1,7 - (Juggernaut RT-era pt2)
+* 1,8 - (Juggernaut RT-era pt3, rider)
 
 * 2,1 - Fantasy Standard Bearer
 * 2,2 - [empty]
@@ -54,8 +54,10 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 * 2,4 - Havoc 2 (white metal, assembled, based, primed black)
 * 2,5 - Havoc 3 (white metal, assembled, based, primed black)
 * 2,6 - Juggernaut (2nd edition, white metal, khorne rider **missing torso**, convert from a Khorne Berserker maybe)
-* 2,7 - ^^^^^^^^^^
-* 2,8 -                                       ^^^^^^^^^^^^
+* 2,7 - (Juggernaut 2e pt2)
+* 2,8 - (Juggernaut 2e pt3, rider)
+
+
 
 * 3,1 - Khorne Berserker (wrong plastic arm)
 * 3,2 - Khorne Berserker
@@ -67,7 +69,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 * 3,8 - [empty]
 
 
-    Note: except the very first Rocket launcher, the rest of this page are Rogue Trader ("RT-era") model designs
+*Note: except the very first Rocket launcher, the rest of this page are Rogue Trader ("RT-era") model designs*
 
 * 4,1 - Heavy weapon rocket (2e)
 * 4,2 - Khorne Berserker (bloodletter head)
@@ -77,6 +79,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 * 4,6 - Nurgle Marine x 2 (duplicate)
 * 4,7 - Marine
 * 4,8 - Marine
+
+
 
 * 5,1 - Nurgl-ish Marine x 2 (duplicate)
 * 5,2 - Nurgl-ish Marine x 2 (duplicate
@@ -102,6 +106,8 @@ NOTE: Not trying to sell the weapons separately, will bundle full models, just m
 * 1,7 - Chaos Terminator Chainsword (left)
 * 1,8 - Chaos Terminator Power Sword (left)
 
+
+
 * 2,1 - Chaos Terminator Bolter (right)
 * 2,2 - Chaos Terminator Rocket Launcher (right)
 * 2,3 - Chaos Terminator Combibolter (right)
@@ -110,6 +116,8 @@ NOTE: Not trying to sell the weapons separately, will bundle full models, just m
 * 2,6 - Chaos Terminator Bolter (right)
 * 2,7 - Chaos Terminator Combibolter? (right)
 * 2,8 - Chaos Terminator Mace (-left-)
+
+
 
 * 3,1 - Chaos Terminator (assembled no base, bolter + power fist)
 * 3,2 - Chaos Terminator (assembled WITH base, open face / champion, bolter + sword + standard bearer rack)
