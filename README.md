@@ -23,7 +23,7 @@ Photos are fairly high resolution, if looking for details (like on black primed 
 # Quick listing of each sheet:
 
 ## Chaos: 
-
+ 
 * Of note: Chaos Squat Terminators and Marines (lead), Original Juggernaut (lead), Rogue Trader era corrupted Marines (and a squad of beakies) and some fantasy models for Sorcerors
 * "RT-era" = Rogue Trader era designs
 * "2e" = 2nd edition design (only noting this when it might get confusing)
