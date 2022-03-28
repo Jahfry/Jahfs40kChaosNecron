@@ -41,62 +41,18 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet A - Chaos
 
+### Sheet A - Chaos
+
 | ***Sheet A*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | *<sup>Row 1</sup>* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] | Standard Bearer | Ahriman | Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
+| *<sup>Row 2</sup>* | Fantasy Standard Bearer | [empty] | Havoc 1 (white metal, assembled, based, primed black) | Havoc 2 (white metal, assembled, based, primed black) | Havoc 3 (white metal, assembled, based, primed black) | Juggernaut (2nd edition, white metal, khorne rider **missing torso**, convert from a Khorne Berserker maybe) | (Juggernaut 2e pt2) | (Juggernaut 2e pt3, rider) |
+| *<sup>Row 3</sup>*  | Khorne Berserker (wrong plastic arm) | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker x 2 (duplicates) | Khorne Berserker | [empty]
 
+*Note: except first Rocket launcher, the rest of this page are Rogue Trader ("RT-era") model designs*
 
-* 1,1 - Fantasy Sorceror 
-* 1,2 - Fantasy Sorceror 
-* 1,3 - Marine Sorceror [missing left arm]
-* 1,4 - Standard Bearer
-* 1,5 - Ahriman
-* 1,6 - Juggernaut (Rogue Trader era, lead, marine rider)
-* 1,7 - (Juggernaut RT-era pt2)
-* 1,8 - (Juggernaut RT-era pt3, rider)
-
-* 2,1 - Fantasy Standard Bearer
-* 2,2 - [empty]
-* 2,3 - Havoc 1 (white metal, assembled, based, primed black)
-* 2,4 - Havoc 2 (white metal, assembled, based, primed black)
-* 2,5 - Havoc 3 (white metal, assembled, based, primed black)
-* 2,6 - Juggernaut (2nd edition, white metal, khorne rider **missing torso**, convert from a Khorne Berserker maybe)
-* 2,7 - (Juggernaut 2e pt2)
-* 2,8 - (Juggernaut 2e pt3, rider)
-
-
-
-* 3,1 - Khorne Berserker (wrong plastic arm)
-* 3,2 - Khorne Berserker
-* 3,3 - Khorne Berserker
-* 3,4 - Khorne Berserker
-* 3,5 - Khorne Berserker
-* 3,6 - Khorne Berserker x 2 (duplicates)
-* 3,7 - Khorne Berserker
-* 3,8 - [empty]
-
-
-*Note: except the very first Rocket launcher, the rest of this page are Rogue Trader ("RT-era") model designs*
-
-* 4,1 - Heavy weapon rocket (2e)
-* 4,2 - Khorne Berserker (bloodletter head)
-* 4,3 - [empty]
-* 4,4 - [empty]
-* 4,5 - Nurgle Marine x 2 (duplicate)
-* 4,6 - Nurgle Marine x 2 (duplicate)
-* 4,7 - Marine
-* 4,8 - Marine
-
-
-
-* 5,1 - Nurgl-ish Marine x 2 (duplicate)
-* 5,2 - Nurgl-ish Marine x 2 (duplicate
-* 5,3 - Nurgl-ish Marine
-* 5,4 - Nurgl-ish Marine
-* 5,5 - Nurgl-ish Marine
-* 5,6 - Nurgl-ish Marine
-* 5,7 - Nurgl-ish Marine (demon head)
-* 5,8 - Nurgl-ish Marine (demon head, duplicate of A5,7)
+| *<sup>Row 4</sup>*  | Heavy weapon rocket (2e) | Khorne Berserker (bloodletter head) | [empty] | [empty] | Nurgle Marine x 2 (duplicate) | Nurgle Marine x 2 (duplicate) | Marine | Marine
+| *<sup>Row 4</sup>*  | Nurgl-ish Marine x 2 (duplicate) | Nurgl-ish Marine x 2 (duplicate | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine (demon head) | Nurgl-ish Marine (demon head, duplicate of A5,7)
 
 ---
 
