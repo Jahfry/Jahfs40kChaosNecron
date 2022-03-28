@@ -82,7 +82,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 | *<sup>Row 2</sup>* | Chaos Marine (bloodletter-y head) | Chaos Marine (bloodletter-y head) | Chaos Marine  | Chaos Marine x 2 (duplicate) | Chaos Marine x 2 (duplicate) | Chaos Marine  | Chaos Marine  | Chaos Marine |
 | *<sup>Row 3</sup>* | Chaos Marine x 2 (duplicate) | Chaos Marine  | Chaos Marine  | Chaos Marine x 2 (duplicate) | Chaos Marine x 2 (duplicate) | Chaos Marine [empty] | Chaos Marine (demon arm) | Chaos Marine |
 | *<sup>Row 4</sup>* | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine x 2 (duplicate) | Chaos Marine x 2 (duplicate)  | Chaos Marine x 2 (duplicate) | Chaos Marine [empty] | Chaos Marine x 3 (duplicate) |
-| *<sup>Row 5</sup>* | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  x 2 (duplicate) | Chaos Marine  x 2 (duplicate) | Chaos Marine [empty] |
+| *<sup>Row 5</sup>* | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  | Chaos Marine  x 2 (duplicate) | Chaos Marine  x 2 (duplicate) | [empty] |
 
 ---
 
