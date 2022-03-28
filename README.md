@@ -39,7 +39,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet A - Chaos
 
-| Row |   |   |   |   |   |   |   |   | 
+| Row | Col1 | Col2 | Col3 | Col4 | Col5 | Col6 | Col7 | Col8 |
 | -   | - | - | - | - | - | - | - | - |
 | 1 | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] | Standard Bearer | Ahriman | Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
 
