@@ -43,12 +43,13 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ![Chaos-A-sorcerors-ahriman-juggers-heavies-khorne-nurgle](https://user-images.githubusercontent.com/16520816/160341935-cfabbc25-3b9c-4c04-9a9f-9762f92d9657.jpg)
 
+*NOTE:* Models guessed as RT-era unless (2e) is in the description.
+
 | ***Sheet A*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| *<sup>Row 1</sup>* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] | Standard Bearer | Ahriman | Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
-| *<sup>Row 2</sup>* | Fantasy Standard Bearer | [empty] | Havoc 1 (white metal, assembled, based, primed black) | Havoc 2 (white metal, assembled, based, primed black) | Havoc 3 (white metal, assembled, based, primed black) | Juggernaut (2nd edition, white metal, khorne rider **missing torso**, convert from a Khorne Berserker maybe) | (Juggernaut 2e pt2) | (Juggernaut 2e pt3, rider) |
-| *<sup>Row 3</sup>*  | Khorne Berserker (wrong plastic arm) | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker x 2 (duplicates) | Khorne Berserker | [empty]
-<td colspan=9><b>Note: except first Rocket launcher, the rest of this page are Rogue Trader ("RT-era") model designs</b></td>
+| *<sup>Row 1</sup>* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror (missing left arm, 2e) | Standard Bearer (2e) | Ahriman (2e) | Juggernaut (RT-era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
+| *<sup>Row 2</sup>* | Fantasy Standard Bearer | [empty] | Havoc 1 (white metal, assembled, based, primed black, 2e) | Havoc 2 (white metal, assembled, based, primed black, 2e) | Havoc 3 (white metal, assembled, based, primed black, 2e) | Juggernaut (white metal, khorne rider **missing torso**, convert from a Khorne Berserker maybe, 2e) | (Juggernaut 2e pt2) | (Juggernaut 2e pt3, rider) |
+| *<sup>Row 3</sup>*  | Khorne Berserker (wrong plastic arm, 2e) | Khorne Berserker (2e) | Khorne Berserker | Khorne Berserker | Khorne Berserker | Khorne Berserker x 2 (duplicates) | Khorne Berserker | [empty]
 | *<sup>Row 4</sup>*  | Heavy weapon rocket (2e) | Khorne Berserker (bloodletter head) | [empty] | [empty] | Nurgle Marine x 2 (duplicate) | Nurgle Marine x 2 (duplicate) | Marine | Marine
 | *<sup>Row 4</sup>*  | Nurgl-ish Marine x 2 (duplicate) | Nurgl-ish Marine x 2 (duplicate | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine | Nurgl-ish Marine (demon head) | Nurgl-ish Marine (demon head, duplicate of A5,7)
 
