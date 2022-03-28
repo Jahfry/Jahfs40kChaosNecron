@@ -41,7 +41,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet A - Chaos
 
-*NOTE: If (2e) isn't listed, I'm thinking it's a RT-era model)
+*NOTE: If (2e) isn't listed, I'm thinking it's a RT-era model*
 
 | ***Sheet A*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* 
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- 
