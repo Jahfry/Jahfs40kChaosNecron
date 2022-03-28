@@ -95,62 +95,45 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 * First 2 rows are RT-era non-Chaos Marines (until you convert)
 * last 3 rows are 2e plastic Khorne Berserkers from a starter box kit ... this was the first round of these so there's only 1 model except squad leader in row 3 col 8
 
-| ***Sheet C*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
+| ***Sheet D*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| *<sup>Row 1</sup>* | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie (all blue beakies have this backpack, this one just fell off)
-| *<sup>Row 2</sup>* | Marine Beakie | Marine Beakie | Marine Beakie (hex base for some reason) | Marine Beakie | Marine Beakie Mechanic (all blue beakies have this backpack, this one just fell off) | Marine Beakie | [empty] | Marine Beakie (red, no backpack attached, don't have another of that small backpack style, comes with standard on page F row 2 column 4)
-| *<sup>Row 3</sup>* | Khorne Berserker 1 (1 always has a bolter right and chainsword left) | Khorne Berserker 1 (no backpack shown but will include with sale from similar type shown on page F row 4, column 8 ) | [empty] | [empty] | [empty] | [empty] | Khorne Berserker 1 | Khorne Berserker -2- (hammer right, bolter left)
-| *<sup>Row 4</sup>* | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1
-| *<sup>Row 5</sup>* | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1
+| *<sup>Row 1</sup>* | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie (backpack just fell off) |
+| *<sup>Row 2</sup>* | Marine Beakie | Marine Beakie | Marine Beakie (hex base for some reason) | Marine Beakie | Marine Beakie Mechanic (all dark blue beakies have this backpack, this one fell off) | Marine Beakie | [empty] | Marine Beakie (red, no backpack attached, don't have another small marine backpack, comes with imperium standard flag on page F row 2 column 4) |
+| *<sup>Row 3</sup>* | Khorne Berserker 1 (1 always has a bolter right and chainsword left) | Khorne Berserker 1 (no backpack shown but will include with sale from similar type shown on page F row 4, column 8 ) | [empty] | [empty] | [empty] | [empty] | Khorne Berserker 1 | Khorne Berserker -2- (hammer right, bolter left) |
+| *<sup>Row 4</sup>* | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 |
+| *<sup>Row 5</sup>* | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 |
 
 ---
 
 ### Sheet E - Chaos Squats ... RT-Era ... Squats may be dead but these would make great Nurgle terminators/marines
 
-* 5,1 - Chaos Squat Terminator 1 (bolter / chain fist, spike+grin head)
-* 5,2 - Chaos Squat Terminator 2 (bolter / chain fist, antler head)
-* 5,3 - Chaos Squat Terminator 3 (bolter / axe, horny grin head)
-* 5,4 - Chaos Squat Terminator 4 x 2 (duplicate, bolter / axe, helmet head)
-* 5,5 - Chaos Squat Terminator 4 TRIKE (same body as #4, power lance left, bike)
-* 5,6 - Chaos Squat Marine (with small backpack)
-* 5,7 - Chaos Squat Marine (with base and backpack)
-* 5,8 - Chaos Squat Marine (with base and backpack)
+![Chaos-E-squats](https://user-images.githubusercontent.com/16520816/160346568-cff4d36e-da77-4793-a914-211b0d82faf1.jpg)
+
+*NOTE: I had people try to tell me Chaos Squats never existed, only marine-style Squats ... these are pretty rare*
+
+| ***Sheet E*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
+| ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| *<sup>Row 1</sup>* | Chaos Squat Terminator 1 (bolter / chain fist, spike+grin head) | Chaos Squat Terminator 2 (bolter / chain fist, antler head) | Chaos Squat Terminator 3 (bolter / axe, horny grin head) | Chaos Squat Terminator 4 x 2 (duplicate, bolter / axe, helmet head) | Chaos Squat Terminator 4 TRIKE (same body as #4, power lance left, bike) | Chaos Squat Marine (with small backpack) | Chaos Squat Marine (with base and backpack) | Chaos Squat Marine (with base and backpack) |
+
 
 ---
 
 ### Sheet F - Chaos Bits with some Orc stuff and RT-era Marine jump packs ... many of these were intended for vehicle or dreadnought conversions
 
-NOTES: 
+![Chaos-F-bits-backpacks](https://user-images.githubusercontent.com/16520816/160347769-24693b82-a789-44ef-8998-372fd36e2a87.jpg)
 
-1) The Chaos backpacks in the middle are plastic RT-era in 2 styles (fat on left, thin on right). 
+*NOTES:*
 
-2) Backpacks on bottom row are all metal. The ones in row 5 column 4 are RT-era Marine Jump Packs. 
+* Chaos backpacks in the middle are **plastic** RT-era in 2 styles (fat on left ... 38 total, thin on right ... 36 shown but one goes with Khorne Berserker missing a backpack). Made a mess of showing these backpacks, but the bottom-right square of each shows what they all look like front + back. Some painted, most bare. 
+* Backpacks on bottom row are **metal**. The ones in row 5 column 4 are RT-era Marine Jump Packs. 
 
-* 1,1 - Bits - slaaneshish cannon head
-* 1,2 - Bits - nurgling? on chain from left arm 
-* 1,3 - Bits - Orc-ey cannon 
-* 1,4 - Bits - heavy bolter?
-* 1,5 - Bits - Juggernaut (2e) head
-* 1,6 - Bits - vehicle heavy bolter? / cannon
-* 1,7 - Bits - power fist/claw, open, orc-ey
-* 1,8 - Bits - small right arm with big plasma
-
-* 2,1 - Bits - (no idea ... )
-* 2,2 - Bits - spikey bit
-* 2,3 - Bits - Standard top (goes with page C row 1 column 3)
-* 2,4 - Bits - Standard (RT-era beakie, goes with page D row 2 column 8 red beakie)
-
-NOTE: I made a mess of organizing these backpacks, but the bottom-right square of each shows what they all look like front + back. Some painted, most bare plastic. 
-
-* 2/3/4,5 through 2/3/4,8 + - 35 Backpacks (thin, 36 shown but one goes with Khorne Berserker missing a backpack)
-    
-* 3/4,1 through 3/4,4 - 38 Backpacks (fat)
-
-* 5,1 - BIG backpack, orc-ey x 2 (duplicate)
-* 5,2 - big backpack, orc-ey x 2 (duplicate)
-* 5,3 - rocket backpack, orc-ey
-* 5,4 - RT-era Jump Packs (these were a pain to find back in the day)
-* 5,5 through 5,7 - *metal* chaos backpacks, thinnest style
+| ***Sheet F*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
+| ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| *<sup>Row 1</sup>* | Bits - slaaneshish cannon head | Bits - nurgling? on chain from left arm  | Bits - Orc-ey cannon  | Bits - heavy bolter? | Bits - Juggernaut (2e) head | Bits - vehicle heavy bolter? / cannon | Bits - power fist/claw, open, orc-ey | Bits - small right arm with big plasma |
+| *<sup>Row 2</sup>* | Bits - (no idea ... ) | Bits - spikey bit | Bits - Standard top (goes with page C row 1 column 3) | Bits - Standard (RT-era beakie, goes with page D row 2 column 8 red beakie) | [empty] | (thin backpacks) | (thin backpacks) | (thin backpacks) |
+| *<sup>Row 3</sup>* | (fat backpacks) | (fat backpacks) | (fat backpacks) | [empty] | [empty] | (thin backpacks) | (thin backpacks) | (thin backpacks) |
+| *<sup>Row 4</sup>* | (fat backpacks) | (fat backpacks) | (fat backpacks) | fat backpack front and back | [empty] | (thin backpacks) | (thin backpacks) | thin backpacks front and back |
+| *<sup>Row 5</sup>* | BIG backpack, orc-ey x 2 (duplicate) | big backpack, orc-ey x 2 (duplicate) | rocket backpack, orc-ey | RT-era Jump Packs (these were a pain to find back in the day) | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | [empty] |
 
 ---
 
