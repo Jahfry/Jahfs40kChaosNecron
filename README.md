@@ -5,10 +5,10 @@ No selling is done through this page, it's just a place to drop the content to s
 Links to this content (same info, just different formatting):
 
 * [GitHub Pages](https://jahfry.github.io/Jahfs40kChaosNecron/) 
-    * Tables don't format great but don't force scrollbars
+    * Tables don't format great but it skips the GitHub UI
 * [GitHub style view](https://github.com/Jahfry/Jahfs40kChaosNecron)
     * has a handy hamburger drop-down menu for getting to different headers
-    * Tables format nicer but have scrollbars
+    * Tables format nicer
 
 ## Background: 
 
