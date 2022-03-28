@@ -41,6 +41,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet A - Chaos
 
+![Chaos-A-sorcerors-ahriman-juggers-heavies-khorne-nurgle](https://user-images.githubusercontent.com/16520816/160341935-cfabbc25-3b9c-4c04-9a9f-9762f92d9657.jpg)
+
 | ***Sheet A*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | *<sup>Row 1</sup>* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] | Standard Bearer | Ahriman | Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
@@ -53,6 +55,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 ---
 
 ### Sheet B - Chaos Terminators (and non-Chaos terminators for conversion)
+
+![Chaos-B-terminators](https://user-images.githubusercontent.com/16520816/160341957-11d00f26-767d-415d-bff7-c538e374293c.jpg)
 
 *NOTES:*
 
