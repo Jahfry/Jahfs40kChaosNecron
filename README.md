@@ -130,7 +130,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 | ***Sheet F*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | *<sup>Row 1</sup>* | Bits - slaaneshish cannon head | Bits - nurgling? on chain from left arm  | Bits - Orc-ey cannon  | Bits - heavy bolter? | Bits - Juggernaut (2e) head | Bits - vehicle heavy bolter? / cannon | Bits - power fist/claw, open, orc-ey | Bits - small right arm with big plasma |
-| *<sup>Row 2</sup>* | Bits - (no idea ... ) | Bits - spikey bit | Bits - Standard top (goes with page C row 1 column 3) | Bits - Standard (RT-era beakie, goes with page D row 2 column 8 red beakie) | [empty] | (thin backpacks) | (thin backpacks) | (thin backpacks) |
+| *<sup>Row 2</sup>* | Bits - (no idea ... ) | Bits - spikey bit | Bits - Standard top (goes with page C row 1 column 3) | Bits - Imperium Flag Standard (RT-era beakie, goes with page D row 2 column 8 red beakie) | [empty] | (thin backpacks) | (thin backpacks) | (thin backpacks) |
 | *<sup>Row 3</sup>* | (fat backpacks) | (fat backpacks) | (fat backpacks) | [empty] | [empty] | (thin backpacks) | (thin backpacks) | (thin backpacks) |
 | *<sup>Row 4</sup>* | (fat backpacks) | (fat backpacks) | (fat backpacks) | fat backpack front and back | [empty] | (thin backpacks) | (thin backpacks) | thin backpacks front and back |
 | *<sup>Row 5</sup>* | BIG backpack, orc-ey x 2 (duplicate) | big backpack, orc-ey x 2 (duplicate) | rocket backpack, orc-ey | RT-era Jump Packs (these were a pain to find back in the day) | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | [empty] |
@@ -159,6 +159,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet G - Necron Warriors + Scarabs box
 
+![Necron-G-warrior box](https://user-images.githubusercontent.com/16520816/160348321-a67e7657-6c73-47c2-8c2b-80c6161051b9.jpg)
+
 * 12 plastic Necron warriors on sprue
 * 3 sets of 4 scarabs for swarms with posts shown
 * Bases for all
@@ -167,10 +169,15 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 * Box included, condition shown
 * Will include ***1*** decal transfer sheet
 
-
 ---
 
 ### Sheets H1/H2/H3 - Necron Battle Force box
+
+![Necron-H-BattleBox1](https://user-images.githubusercontent.com/16520816/160348416-eb0ba9be-18cd-46bb-a20f-edd7f639f524.jpg)
+
+![Necron-H-BattleBox2](https://user-images.githubusercontent.com/16520816/160348426-34f99e5d-8e04-42d2-976e-c8a153fd4bf5.jpg)
+
+![Necron-H-BattleBox3](https://user-images.githubusercontent.com/16520816/160348435-f4d471b7-b297-4899-b397-1afcacaed124.jpg)
 
 * 12 plasticNecron warriors on sprue
 * 3 Destroyers (with unused clear bases and posts)
@@ -185,6 +192,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet I - Necron Destroyers / Heavy Destroyers / Destroyer Lord
 
+![Necron-I-Destroyers-heavy-lord](https://user-images.githubusercontent.com/16520816/160348479-6dff2e9b-6db5-4fdc-92ae-15c0d1ad9a51.jpg)
+
 * 2 Destroyers (identical to the 3 in the Battle Force box)
 * 3 Heavy Destroyers (identical to Destroyer + extra pieces, see "nubby" note below)
 * 1 Destroyer Lord (identical to Destroyer + extra pieces)
@@ -194,7 +203,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 * No carboard boxes (but do have plastic shell containers for the Heavies & Lord)
 * Will include ***2*** decal transfer sheets
 
-* "Nubby" note ... 
+#### "Nubby" note ...
 * The Heavy Destroyers come with the "nubby" pieces shown far-right bottom ... but ... 
 * the 2 left Heavies only had 1 "nubby"
 	* the far right has 2 "nubby" pieces
@@ -210,6 +219,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet J - Necron Scarabs
 
+![Necron-J-Scarabs-bases](https://user-images.githubusercontent.com/16520816/160348568-5d3490fd-b228-490e-af51-fccbe58930ff.jpg)
+
 * Top-right - 10 Scarab swarms (4 scarabs + posts + base)
 * 4 swarms without bases *shown* but do have 4 bases from the next sheet to be complete swarms
 	
@@ -224,6 +235,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet K - Necron C'Tan & Wraiths
 
+![Necron-K-ctan-wraiths-bits](https://user-images.githubusercontent.com/16520816/160348588-3ccaa0e2-a56b-4e2b-89a2-0d40a06b56ae.jpg)
+
 * Left-top - C'tan Nightbringer (only have what is shown but looks complete including a quartz-y base piece)
 * Middle-top - C'tan Deceiver still in sealed box
 * Right-top - C'tan Deceiver (*missing* the right-side head spikes, where the red circle shows, but should be easy to greenstuff sculpt based on right half ... I bought this one like this then lucked into the sealed box)
@@ -234,6 +247,8 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 ---
 
 ### Sheet L - Necron Warriors
+
+![Necron-L-warriors](https://user-images.githubusercontent.com/16520816/160348604-46e63194-ef53-44f8-ba42-1d3550a0c2bd.jpg)
 
 * 36 Necron Warriors (3 rows of 12 still on sprue)
 * Bases and transparent green rods
@@ -246,6 +261,12 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheets M1/M2/M3 - Necron Monolith
 
+![Necron-M-Monolith1](https://user-images.githubusercontent.com/16520816/160348626-4385cda1-1922-48e4-8103-07187afc32c6.jpg)
+
+![Necron-M-Monolith2](https://user-images.githubusercontent.com/16520816/160348636-744c1a1c-31d6-4b50-bcf5-2052adbb1879.jpg)
+
+![Necron-M-Monolith3](https://user-images.githubusercontent.com/16520816/160348642-7f36722e-72ae-4bfe-acba-9ba37559c66c.jpg)
+
 * Includes box in condition shown (looks rough but still holds together)
 * Intructions printed on inside sides of box, shown
 * Based on instructions I believe all parts still here
@@ -257,12 +278,16 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet N - Necron Decal Transfer Sheets
 
+![Necron-N-transfers](https://user-images.githubusercontent.com/16520816/160348659-02f74fdb-eff2-4c2f-a5e8-4c328e7430a7.jpg)
+
 * These aren't being sold separately, just pictured here to show they're in good conditions. 1 is also included in the Monolith, shown on it's sheets (had to take this last shot with a cell phone camera as I forgot to take it earlier). 
 
 
 ---
 
 ### Sheet O - Necron Flayed Ones
+
+![Necron-O-Flayed](https://user-images.githubusercontent.com/16520816/160348675-aa5d4d66-ae80-4d3a-b470-cd9a25428384.jpg)
 
 * 12 Flayed Ones
 * Also forgot to take a photo in the original set, so this is from cellphone, it's blurry ... they were first run casts and are much crisper than shown. 
