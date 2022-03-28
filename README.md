@@ -27,7 +27,7 @@ Photos are fairly high resolution, if looking for details (like on black primed 
     + Sheet C - Chaos Marines (mostly RT-era "Renegade Marines")
     + Sheet D - Marines Beakies (RT-era) & plastic Khorne Berserkers
     + Sheet E - Chaos Squats ... RT-Era
-    + Sheet F - Chaos & Orc Bits, RT-era jump packs
+    + Sheet F - Chaos & Ork Bits, RT-era jump packs
   * Necrons (see notes before Sheet G):
     + Sheet G - Necron Warriors + Scarabs box
     + Sheet H - Necron Battle Force box
@@ -141,7 +141,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ---
 
-### Sheet F - Chaos Bits with some Orc stuff and RT-era Marine jump packs ... many of these were intended for vehicle or dreadnought conversions
+### Sheet F - Chaos Bits with some Ork stuff and RT-era Marine jump packs ... many of these were intended for vehicle or dreadnought conversions
 
 ![Chaos-F-bits-backpacks](https://user-images.githubusercontent.com/16520816/160347769-24693b82-a789-44ef-8998-372fd36e2a87.jpg)
 
@@ -152,11 +152,11 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 | ***Sheet F*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| *<sup>Row 1</sup>* | Bits - slaaneshish cannon head | Bits - nurgling? on chain from left arm  | Bits - Orc-ey cannon  | Bits - heavy bolter? | Bits - Juggernaut (2e) head | Bits - vehicle heavy bolter? / cannon | Bits - power fist/claw, open, orc-ey | Bits - small right arm with big plasma |
+| *<sup>Row 1</sup>* | Bits - slaaneshish cannon head | Bits - nurgling? on chain from left arm  | Bits - Ork-ey cannon  | Bits - heavy bolter? | Bits - Juggernaut (2e) head | Bits - vehicle heavy bolter? / cannon | Bits - power fist/claw, open, ork-ey | Bits - small right arm with big plasma |
 | *<sup>Row 2</sup>* | Bits - (no idea ... ) | Bits - spikey bit | Bits - Standard top (goes with page C row 1 column 3) | Bits - Imperium Flag Standard (RT-era beakie, goes with page D row 2 column 8 red beakie) | [empty] | (thin backpacks) | (thin backpacks) | (thin backpacks) |
 | *<sup>Row 3</sup>* | (fat backpacks) | (fat backpacks) | (fat backpacks) | [empty] | [empty] | (thin backpacks) | (thin backpacks) | (thin backpacks) |
 | *<sup>Row 4</sup>* | (fat backpacks) | (fat backpacks) | (fat backpacks) | fat backpack front and back | [empty] | (thin backpacks) | (thin backpacks) | thin backpacks front and back |
-| *<sup>Row 5</sup>* | BIG backpack, orc-ey x 2 (duplicate) | big backpack, orc-ey x 2 (duplicate) | rocket backpack, orc-ey | RT-era Jump Packs (these were a pain to find back in the day) | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | [empty] |
+| *<sup>Row 5</sup>* | BIG backpack, ork-ey x 2 (duplicate) | big backpack, ork-ey x 2 (duplicate) | rocket backpack, ork-ey | RT-era Jump Packs (these were a pain to find back in the day) | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | *metal* chaos backpacks, thinnest style | [empty] |
 
 ---
 
@@ -319,12 +319,28 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Print Materials:
 
-***(no pictures/listing yet)***
+*NOTES:*
 
-* All in good or better condition, but none mint ... little use, mostly just some folded corners from moving / storing
-* Rogue Trader manual (softback)
-* Many White Dwarf issues around 250-300
-* 2nd edition Chaos / Necron codexes (mostly softback)
-* GW Catalog including old models from <>2002
-* (will photo and inventory these in a week, making sure they stay flat while transitioning from storage to house)
+... All are softback except the 2004 40K Rulebook
+
+... All in good or better condition unless noted, but none mint ... little use, mostly just some folded corners from moving / storing
+
+... Not photographed but will if interest
+
+* Warhammer 40,000 Rogue Trader - 1987 - (has original owner name written inside front cover)
+* Codex Chaos - 1996
+* Codex Chaos Space Marines - 1999
+* 40k Rules - 1998-1999 (black templar cover) with insert card
+* Codex Armageddon - 2000
+* Codex Chaos Space Marines - 2002
+* Codex Necrons - 2002
+* Index Astartes - 2002
+* Chapter Approved - Second Book of the Astronomicon - 2001 (sisters of battle, necrons, death company)
+* Chapter Approved - Fourth Book of the Astronomicon - Annual 2004  (Cursed Founding, Feral Orks, Imperial Guard Armoured Company, Kroot, Tyranid Seeding Swarms, Tau Rail, Mounted Daemonettes)
+* 40k Rules - 2004 ("IV" Skullcover) with insert card - *Hardback*
+* White dwarf 256, 257, 259-266, 278
+* Troll monthly mail order magazine 39, 40 x 2, 43, 44, 46, 49, 60, 61
+* Citadel Miniatures (complete catalog) - 2000
+* Citadel Miniatures (holiday catalog, Tau intro) - 2001
+
 
