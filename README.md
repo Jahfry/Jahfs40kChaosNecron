@@ -1,6 +1,11 @@
 # Jahf's Too Many 40K Minis
 
-No selling done through this page, it's just a place to drop the content to show in Discord/Reddit/etc. 
+No selling is done through this page, it's just a place to drop the content to show in Discord/Reddit/etc. 
+
+Links to this content (same info, just different formatting):
+
+* [GitHub Pages view](https://jahfry.github.io/Jahfs40kChaosNecron/)
+* [GitHub style view](https://github.com/Jahfry/Jahfs40kChaosNecron)
 
 ## Background: 
 
