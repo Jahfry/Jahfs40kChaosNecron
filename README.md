@@ -23,7 +23,7 @@ Photos are fairly high resolution, if looking for details (like on black primed 
 - Contents:
   * [Background:](#background-)
   * [NOTES:](#notes-)
-- [Quick listing of each sheet:](#quick-listing-of-each-sheet-)
+- Sheets:
   * [Chaos:](#chaos-)
     + [Sheet A - Chaos](#sheet-a---chaos)
     + [Sheet B - Chaos Terminators (and non-Chaos terminators for conversion)](#sheet-b---chaos-terminators--and-non-chaos-terminators-for-conversion-)
@@ -33,16 +33,15 @@ Photos are fairly high resolution, if looking for details (like on black primed 
     + [Sheet F - Chaos Bits with some Orc stuff and RT-era Marine jump packs ... many of these were intended for vehicle or dreadnought conversions](#sheet-f---chaos-bits-with-some-orc-stuff-and-rt-era-marine-jump-packs--many-of-these-were-intended-for-vehicle-or-dreadnought-conversions)
   * [Necrons:](#necrons-)
     + [Sheet G - Necron Warriors + Scarabs box](#sheet-g---necron-warriors---scarabs-box)
-    + [Sheets H1/H2/H3 - Necron Battle Force box](#sheets-h1-h2-h3---necron-battle-force-box)
+    + [Sheet H - Necron Battle Force box](#sheets-h1-h2-h3---necron-battle-force-box)
     + [Sheet I - Necron Destroyers / Heavy Destroyers / Destroyer Lord](#sheet-i---necron-destroyers---heavy-destroyers---destroyer-lord)
-      - ["Nubby" note ...](#-nubby--note-)
     + [Sheet J - Necron Scarabs](#sheet-j---necron-scarabs)
     + [Sheet K - Necron C'Tan & Wraiths](#sheet-k---necron-c-tan---wraiths)
     + [Sheet L - Necron Warriors](#sheet-l---necron-warriors)
-    + [Sheets M1/M2/M3 - Necron Monolith](#sheets-m1-m2-m3---necron-monolith)
+    + [Sheet M - Necron Monolith](#sheets-m1-m2-m3---necron-monolith)
     + [Sheet N - Necron Decal Transfer Sheets](#sheet-n---necron-decal-transfer-sheets)
     + [Sheet O - Necron Flayed Ones](#sheet-o---necron-flayed-ones)
-    + [Print Materials (no pictures/listing yet):](#print-materials--no-pictures-listing-yet--)
+    + Addendum [Print Materials](#print-materials--no-pictures-listing-yet--)
 
 
 ---
@@ -198,7 +197,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ---
 
-### Sheets H1/H2/H3 - Necron Battle Force box
+### Sheets H - Necron Battle Force box
 
 ![Necron-H-BattleBox1](https://user-images.githubusercontent.com/16520816/160348416-eb0ba9be-18cd-46bb-a20f-edd7f639f524.jpg)
 
@@ -286,7 +285,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 	
 ---
 
-### Sheets M1/M2/M3 - Necron Monolith
+### Sheets M - Necron Monolith
 
 ![Necron-M-Monolith1](https://user-images.githubusercontent.com/16520816/160348626-4385cda1-1922-48e4-8103-07187afc32c6.jpg)
 
@@ -321,7 +320,9 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 	
 ---
 
-### Print Materials (no pictures/listing yet):
+### Print Materials:
+
+***(no pictures/listing yet)***
 
 * All in good or better condition, but none mint ... little use, mostly just some folded corners from moving / storing
 * Rogue Trader manual (softback)
