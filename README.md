@@ -41,7 +41,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 | ***Sheet A*** | *Col 1* | *Col 2* | *Col 3* | *Col 4* | *Col 5* | *Col 6* | *Col 7* | *Col 8* |
 | ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| *^Row 1^* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] | Standard Bearer | Ahriman | Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
+| *<sup>Row 1</sup>* | Fantasy Sorceror | Fantasy Sorceror | Marine Sorceror [missing left arm] | Standard Bearer | Ahriman | Juggernaut (Rogue Trader era, lead, marine rider) | (Jugger RT-era pt2) | (Jugger RT-era pt3, rider) | 
 
 
 * 1,1 - Fantasy Sorceror 
