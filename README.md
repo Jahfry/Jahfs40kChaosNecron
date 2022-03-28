@@ -12,7 +12,7 @@ Links to this content (same info, just different formatting):
 
 ## Background: 
 
-All purchased between 1999 and 2003. See notes below for any *known* issues. Everything for each model has been photographed. 
+All purchased between 1999 and 2004. See notes below for any *known* issues. Everything for each model has been photographed. 
 
 I haven't broken things into individual prices. I'll feel lucky to resell these for the price I paid 20 years ago, so make an offer if you're willing to buy bulk (either for yourself, to split with friends, or to resell yourself).  If no interest in large offers I'll set up a price with the lists below, will just take a week or so. 
 
