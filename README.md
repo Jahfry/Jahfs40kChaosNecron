@@ -21,14 +21,14 @@ Photos are fairly high resolution, if looking for details (like on black primed 
 ---
 
 - Contents:
-  * Chaos:
+  * Chaos (see notes before Sheet A):
     + Sheet A - Chaos Sorcerors, Havocs, Khorne Berserkers, Juggernauts, Nurgle Marines, misc
     + Sheet B - Chaos Terminators (and Marine terminators for conversion)
     + Sheet C - Chaos Marines (mostly RT-era "Renegade Marines")
     + Sheet D - Marines Beakies (RT-era) & plastic Khorne Berserkers
     + Sheet E - Chaos Squats ... RT-Era
     + Sheet F - Chaos & Orc Bits, RT-era jump packs
-  * Necrons:
+  * Necrons (see notes before Sheet G):
     + Sheet G - Necron Warriors + Scarabs box
     + Sheet H - Necron Battle Force box
     + Sheet I - Necron Destroyers / Heavy Destroyers / Destroyer Lord
