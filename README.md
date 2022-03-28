@@ -1,3 +1,7 @@
+<style type="text/css" scoped>
+	table { border: 10px solid red important; }
+<style>
+
 # Jahf's Too Many 40K Minis
 
 No selling done through this page, it's just a place to drop the content to show in Discord/Reddit/etc. 
