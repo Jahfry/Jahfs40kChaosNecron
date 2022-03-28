@@ -1,6 +1,4 @@
-<style type="text/css" scoped>
-	table { border: 10px solid red important; }
-<style>
+<style type="text/css">	table { border: 10px solid red important; }<style>
 
 # Jahf's Too Many 40K Minis
 
