@@ -280,7 +280,7 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ![Necron-N-transfers](https://user-images.githubusercontent.com/16520816/160348659-02f74fdb-eff2-4c2f-a5e8-4c328e7430a7.jpg)
 
-* These aren't being sold separately, just pictured here to show they're in good conditions. 1 is also included in the Monolith, shown on it's sheets (had to take this last shot with a cell phone camera as I forgot to take it earlier). 
+* These aren't being sold separately, just pictured here to show they're in good conditions. 1 is also included in the Monolith, shown on it's sheet (had to take this last shot with a cell phone camera as I forgot to take it earlier). 
 
 
 ---
