@@ -88,52 +88,20 @@ NOTE: These will go in order by [row],[column] where logical, top-left is column
 
 ### Sheet D - Marines Beakies (RT-era, all painted old style with base and backpacks except red) & Khorne Berserkers
 
-* 1,1 - Marine Beakie
-* 1,2 - Marine Beakie
-* 1,3 - Marine Beakie
-* 1,4 - Marine Beakie
-* 1,5 - Marine Beakie
-* 1,6 - Marine Beakie
-* 1,7 - Marine Beakie
-* 1,8 - Marine Beakie (all blue beakies have this backpack, this one just fell off)
+![Chaos-D-beakies-khorne](https://user-images.githubusercontent.com/16520816/160346028-3ec991cc-77f5-41f4-84f5-a2a2feeb6cfd.jpg)
 
-* 2,1 - Marine Beakie
-* 2,2 - Marine Beakie
-* 2,3 - Marine Beakie (hex base for some reason)
-* 2,4 - Marine Beakie
-* 2,5 - Marine Beakie Mechanic (all blue beakies have this backpack, this one just fell off)
-* 2,6 - Marine Beakie
-* 2,7 - [empty]
-* 2,8 - Marine Beakie (red, no backpack attached, don't have another of that small backpack style, comes with standard on page F row 2 column 4)
+*NOTES:*
 
-NOTE: The rest of these are plastic Khorne Berserkers from a starter box kit ... this was the first round of these so there's only 1 model except the one in [3,8] which was the squad leader
-						 
-* 3,1 - Khorne Berserker 1 (1 always has a bolter right and chainsword left)
-* 3,2 - Khorne Berserker 1 (no backpack shown but will include with sale from similar type shown on page F row 4, column 8 )
-* 3,3 - [empty]
-* 3,4 - [empty]
-* 3,5 - [empty]
-* 3,6 - [empty]
-* 3,7 - Khorne Berserker 1
-* 3,8 - Khorne Berserker -2- (hammer right, bolter left)
+* First 2 rows are RT-era non-Chaos Marines (until you convert)
+* last 3 rows are 2e plastic Khorne Berserkers from a starter box kit ... this was the first round of these so there's only 1 model except squad leader in row 3 col 8
 
-* 4,1 - Khorne Berserker 1
-* 4,2 - Khorne Berserker 1
-* 4,3 - Khorne Berserker 1
-* 4,4 - Khorne Berserker 1
-* 4,5 - Khorne Berserker 1
-* 4,6 - Khorne Berserker 1
-* 4,7 - Khorne Berserker 1
-* 4,8 - Khorne Berserker 1
-
-* 5,1 - Khorne Berserker 1
-* 5,2 - Khorne Berserker 1
-* 5,3 - Khorne Berserker 1
-* 5,4 - Khorne Berserker 1
-* 5,5 - Khorne Berserker 1
-* 5,6 - Khorne Berserker 1
-* 5,7 - Khorne Berserker 1
-* 5,8 - Khorne Berserker 1
+| ***Sheet C*** | *<sup>Col 1</sup>* | *<sup>Col 2</sup>* | *<sup>Col 3</sup>* | *<sup>Col 4</sup>* | *<sup>Col 5</sup>* | *<sup>Col 6</sup>* | *<sup>Col 7</sup>* | *<sup>Col 8</sup>* |
+| ------------: | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| *<sup>Row 1</sup>* | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie | Marine Beakie (all blue beakies have this backpack, this one just fell off)
+| *<sup>Row 2</sup>* | Marine Beakie | Marine Beakie | Marine Beakie (hex base for some reason) | Marine Beakie | Marine Beakie Mechanic (all blue beakies have this backpack, this one just fell off) | Marine Beakie | [empty] | Marine Beakie (red, no backpack attached, don't have another of that small backpack style, comes with standard on page F row 2 column 4)
+| *<sup>Row 3</sup>* | Khorne Berserker 1 (1 always has a bolter right and chainsword left) | Khorne Berserker 1 (no backpack shown but will include with sale from similar type shown on page F row 4, column 8 ) | [empty] | [empty] | [empty] | [empty] | Khorne Berserker 1 | Khorne Berserker -2- (hammer right, bolter left)
+| *<sup>Row 4</sup>* | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1
+| *<sup>Row 5</sup>* | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1 | Khorne Berserker 1
 
 ---
 
